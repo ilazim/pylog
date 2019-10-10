@@ -1,4 +1,3 @@
-# From: https://github.com/moses-palmer/pynput
 from os import system
 
 package = 'pynput'
